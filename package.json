@@ -1,0 +1,12 @@
+{
+  "name": "ngdefilabs",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/NG-Defi/NgDefiLabs.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
